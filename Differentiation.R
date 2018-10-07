@@ -1,6 +1,6 @@
 #1
-rule11 <- function( x){
-  return(1/2*sqrt(x) )
+rule11 <- function(x){
+  return(1/(2*sqrt(x)))
 }
 rule11(1)
 
